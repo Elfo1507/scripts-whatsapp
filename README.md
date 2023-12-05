@@ -5,4 +5,4 @@ Copie o código do script, cole no console do navegador (botão direito -> inspe
 
 Veja o caos
 
-Para criar o seu proprio, basta copiar o baseScript e colar o seu texto no <INSIRA TEXTO AQUI>
+Para criar o seu proprio, basta copiar o baseScript e colar o seu texto no `<INSIRA TEXTO AQUI>`
